@@ -107,9 +107,3 @@ Building AI is a continuous loop. Here is the lifecycle for different stages:
 
 ---
 *Created as a living document for the AI community. Last Updated: June 2026.*
-
-## 🧱 Contributors Wall
-
-<div align="center">
-  <img src="https://contrib.rocks/image?repo=sohaibdevv/ai-ml-interview-knowledge-base">
-</div>
